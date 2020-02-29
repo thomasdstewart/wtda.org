@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to Weak Tea Drinkers Association
+Some people like strong tea. Some people like weak tea. I prefare weak milky tea. This site it to help suport all the people that like weak tea and are sick of people commenting about weak tea.
 
-You can use the [editor on GitHub](https://github.com/thomasdstewart/wtda.org/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This site explains how to make weak tea, a tea colour scale and some pictures of tea.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to email any questions, comments or pictures to thomas@wtda.org. 
 
-### Markdown
+### How to make Weak Tea
+There are two methods to make tea, therefore there are two methods to make weak tea. Either in a pot or in a cup. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Pot
+1. Boil kettle with water in
+1. Pour small quantity of in the tea pot swirl it around and pour it out
+1. Depending on the pot size use 1 tea bag for 2-3 cups and 2 tea bags for 4-6 cups
+1. Leave to brew for 1-2 minutes, don't stir the pot
+1. Pour milk in to cups
+1. Fill cups up with tea 
 
-```markdown
-Syntax highlighted code block
+#### Cup
+1. Boil kettle with water in
+1. Put tea bag in cup
+1. Add boiling water to cup fulling it 3/4
+1. Stir the cup for 3 seconds
+1. Remove tea bag
+1. Fill cup up with milk 
 
-# Header 1
-## Header 2
-### Header 3
+### The Tea Colour Scale
+Coming Soon...
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thomasdstewart/wtda.org/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Pictures
+Coomin Soon...
