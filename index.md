@@ -1,8 +1,6 @@
 ## Welcome to Weak Tea Drinkers Association (Est. Oct 2011)
 
-Some people like strong tea. Some people like weak tea. I prefare weak milky tea. This site it to help suport all the people that like weak tea and are sick of people commenting about weak tea.
-
-This site explains how to make weak tea, a tea colour scale and some pictures of tea.
+Some people like strong tea. Some people like weak tea. I prefare weak milky tea. This site it to help suport all the people that like weak tea and are sick of people commenting about weak tea it explains how to make weak tea, has a tea colour scale and some pictures of tea!
 
 Feel free to email any questions, comments or pictures to thomas@wtda.org. 
 
