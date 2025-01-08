@@ -1,2 +1,3 @@
 theme: jekyll-theme-merlot
-google_analytics: G-ZK0RMZC0RH
+google_analytics:
+  id: G-ZK0RMZC0RH
